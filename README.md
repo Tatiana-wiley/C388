@@ -1,2 +1,2 @@
-# java-class
-Repository for Java Basics class
+# c388
+Repository for c388 Class
